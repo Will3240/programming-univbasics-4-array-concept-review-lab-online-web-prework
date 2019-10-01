@@ -7,6 +7,7 @@ end
   nil
 end  
 def find_max_value(array)
+  count=1
   
 end
 
